@@ -8,6 +8,7 @@
 <script>
 const xmlhttp = new XMLHttpRequest();
 xmlhttp.onload = function() {
+//he JavaScript built-in function JSON.parse() to convert the string into a JavaScript object:
   const myObj = JSON.parse(this.responseText);
   document.getElementById("demo").innerHTML = myObj.name;
 }
