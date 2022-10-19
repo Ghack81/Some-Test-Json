@@ -11,7 +11,7 @@ JSON en JavaScript, vous apprendre à analyser la syntaxe du JSON afin d'en extr
 Links:
 
 
-- Pyhton : [Pyhton](https://www.python.org/) !
+- Python : [Pyhton](https://www.python.org/) !
 - Json : [JSON](https://json-schema.org/) !
 
 Tools:
